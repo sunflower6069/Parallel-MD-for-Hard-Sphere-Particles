@@ -1,10 +1,6 @@
 !########################################################################
-!#   This is a parallel program for CPSC424/524 Assignment #3           #
-!#   Task 2. Gravitational N-Body Simulation                            #
-!#           with Collective Communication                              #
+!#   Gravitational N-Body Simulation with Collective Communication      #
 !#   Author: Xin Yan                                                    #
-!#   Credit: Part of the program is adapted from a serial program       #
-!#           by Andrew Sherman                                          #
 !#   Date: 10/18/2014                                                   #
 !########################################################################
 
