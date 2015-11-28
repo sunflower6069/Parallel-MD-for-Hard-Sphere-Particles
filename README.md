@@ -1,2 +1,2 @@
 # Parallel-MD-for-Hard-Sphere-Particles
-adfds
+Gravitational N-Body Molecular Dynamics simulation with MPI collective communication
